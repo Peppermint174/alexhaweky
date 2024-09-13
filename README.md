@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @alexhaweky
+- 👋 Hi, I’m @Peppermint174
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning how to make and mod games
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him
